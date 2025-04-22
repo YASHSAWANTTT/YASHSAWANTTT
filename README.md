@@ -4,7 +4,6 @@
 Welcome to my corner of the internet! I'm a Computer Science senior at Arizona State University, building scalable data platforms, AI-powered tools, and interactive dashboards — all with one goal: making data-driven decisions faster and more fun.
 
 - 🔍 Currently exploring **real-time analytics**, **AI integration**, and **data engineering** at scale.
-- 🚀 Interning at **Nowhere Collective**, where I bridge frontend magic with backend horsepower.
 - 🧠 Obsessed with learning systems that **think**, **adapt**, and **communicate**.
 - 🎯 Projects powered by Kafka, Flink, AWS, React, PostgreSQL, and more.
 
