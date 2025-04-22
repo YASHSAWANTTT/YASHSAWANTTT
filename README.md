@@ -35,8 +35,8 @@ Welcome to my corner of the internet! I'm a Computer Science senior at Arizona S
 ---
 
 ## 📊 Dashboards that tell stories
-- [✈️ British Airways Review Analysis](https://public.tableau.com/shared/MBBP5F84C) – seat comfort, service ratings, and aircraft performance
-- [🛒 Sales & Customer Insight Dashboard](https://public.tableau.com/views/Book1_17437090147830/Dashboard1) – customer behavior, order volumes, and KPIs
+- [✈️ British Airways Review Analysis]([https://public.tableau.com/shared/MBBP5F84C](https://public.tableau.com/views/Book1_17437090147830/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) – seat comfort, service ratings, and aircraft performance
+- [🛒 Sales & Customer Insight Dashboard]([https://public.tableau.com/views/Book1_17437090147830/Dashboard1](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17440888486330/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) – customer behavior, order volumes, and KPIs
 
 ---
 
