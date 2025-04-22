@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Yash Sawant
+# Hey there! I'm Yash Sawant
 
 **`Software Engineer | Data Analyst | Problem Solve`**  
 Welcome to my corner of the internet! I'm a Computer Science senior at Arizona State University, building scalable data platforms, AI-powered tools, and interactive dashboards — all with one goal: making data-driven decisions faster and more fun.
