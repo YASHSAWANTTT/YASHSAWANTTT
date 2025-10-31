@@ -1,6 +1,6 @@
 # Hey there! I'm Yash Sawant
 
-**`Software Engineer | Data Analyst | Problem Solve`**  
+**`Software Engineer | Data Analyst`**  
 Welcome to my corner of the internet! I'm a Computer Science student at Arizona State University, building scalable data platforms, AI-powered tools, and interactive dashboards — all with one goal: making data-driven decisions faster and more fun.
 
 - 🔍 Currently exploring **real-time analytics**, **AI integration**, and **data engineering** at scale.
