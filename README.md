@@ -11,11 +11,6 @@ Welcome to my corner of the internet! I'm a Computer Science senior at Arizona S
 
 ## 🔨 Projects I'm proud of
 
-### 🚦 [Stock Market Data Pipeline](https://github.com/YASHSAWANTTT/StockVisualizer)
-**Kafka • AWS • Tableau • Python**  
-→ Real-time data pipeline streaming from Polygon.io to AWS S3 with interactive Tableau dashboards  
-→ Reduced latency by 50% and improved trading visibility for trend analysis
-
 ### 💬 [AI-Powered E-learning Platform](https://start-ops.vercel.app/)
 **Node.js • PostgreSQL • AWS • React**  
 → Automates quiz creation and grading using OpenAI  
