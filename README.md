@@ -3,9 +3,9 @@
 **Software Engineer | AI Systems | Real-Time & Data Platforms**  
 MS + BS Computer Science @ Arizona State University
 
-I build **AI-powered, data-heavy products that real users depend on** spanning full-stack web, distributed systems, and agent-based AI. I care deeply about **performance, correctness, and user trust**, especially when AI sits directly inside core workflows.
+I build **AI-powered, data-heavy products that real users depend on** spanning full-stack web, distributed systems and agent-based AI. I care deeply about **performance, correctness, and user trust** especially when AI sits directly inside core workflows.
 
-Previously shipped production systems at **Zoom (Next Lab)**, built NSF-funded education platforms, and developed AI products used by hundreds of users.
+Previously shipped production systems at **Zoom (Next Lab)**, built NSF-funded education platforms and developed AI products used by hundreds of users.
 
 ---
 
@@ -92,10 +92,11 @@ Previously shipped production systems at **Zoom (Next Lab)**, built NSF-funded e
 
 ## How I Like to Work
 
-- I move fast, but I don’t ship things I wouldn’t trust myself
+- I move fast but I don’t ship things I wouldn’t trust myself
 - I care about systems that **explain themselves**, especially when AI is involved
-- I’m comfortable jumping across frontend, backend, infra, and AI in the same day
+- I am comfortable jumping across frontend, backend, infra, and AI in the same day
 - I do my best work in **early-stage, high-ownership environments**
+- I also have a newfound obsession with running, so might grad you to run sooner or later
 
 ---
 
