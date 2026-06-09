@@ -1,107 +1,97 @@
-# Hey, I’m Yash Sawant
+<div align="center">
 
-**Software Engineer | AI Systems | Real-Time & Data Platforms**  
-MS + BS Computer Science @ Arizona State University
+```
+██╗   ██╗ █████╗ ███████╗██╗  ██╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║
+ ╚████╔╝ ███████║███████╗███████║
+  ╚██╔╝  ██╔══██║╚════██║██╔══██║
+   ██║   ██║  ██║███████║██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-I build **AI-powered, data-heavy products that real users depend on** spanning full-stack web, distributed systems and agent-based AI. I care deeply about **performance, correctness, and user trust** especially when AI sits directly inside core workflows.
+### i build things that ship, break, and ship again
 
-Previously shipped production systems at **Zoom (Next Lab)**, built NSF-funded education platforms and developed AI products used by hundreds of users.
+**MS CS @ ASU · 4.0 · Zoom Fellow · AI systems that actually work in prod**
 
----
+[![Portfolio](https://img.shields.io/badge/yashsawant.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://yashajaysawant.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-ajay-sawant)
+[![X](https://img.shields.io/badge/@yashsawthatt-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yashsawthatt)
+[![Email](https://img.shields.io/badge/yasawant@asu.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasawant@asu.edu)
 
-## Zoom – Production Real-Time Systems
-
-**Software Engineer, Next Lab (Zoom Innovation Lab)**
-
-- Built and shipped **production-ready prototypes** for Zoom’s Innovation Lab used by **5,000+ hybrid learners**
-- Worked on **real-time communication systems** using WebRTC, React, Docker, and AWS
-- Tuned signaling paths and interaction flows to **reduce end-to-end latency** in live classroom experiences
-- Operated in environments where **performance, reliability, and UX were immediately user-visible**
-
----
-
-## AI & Research Experience
-
-**Research Aide – Cognition Lab (ASU)**
-
-- Ran **1,500+ multi-step agent interactions** across clinical simulation benchmarks (MedAgentBench, AgentClinic)
-- Built **evaluation pipelines and error taxonomies** to analyze reasoning drift, hallucinations, retrieval, and factuality failures
-- Designed reproducible AI experimentation workflows using **Python, Docker, SQL, and AWS**
-- Focused on improving model reliability and pushing accuracy beyond current baselines (~67%)
+</div>
 
 ---
 
-## Production Platforms & Systems
+## what i'm about
 
-**Software Engineer – VizCoach (NSF-funded, $300K)**
+I build AI systems that do real work — not demos, not wrappers, not vibes-based prototypes. Production pipelines, agentic workflows, voice agents that respond in under 300ms. The kind of stuff that breaks at 2am and you have to fix it.
 
-- Engineer on a classroom orchestration and analytics platform used by **150+ students per semester**
-- Built real-time dashboards, chat, and authoring tools using **React, Go, SQL, WebSockets**
-- Maintained **100% uptime** during live classroom pilots
-- Enabled data-driven instructor feedback through scalable backend services
+Currently: finishing my MS at ASU, figuring out what's next, and making the most of the time in between.
 
 ---
 
-## Startup & Product Engineering
+## things i've shipped
 
-**Software Engineering Intern – Strategic Operations**
+**Emma** — AI voice agent for language learning inside Zoom. Real-time TTS, multi-language support, meeting-aware context layer. Duolingo but you never leave your class. Served 100+ ASU students.
 
-- Built a **production-grade AI-powered LMS** with GPT-based auto-grading
-- Reduced manual grading and ops workflows using **AWS Lambda, Redis, async job pipelines**
-- Shipped features with **sub-250ms API response times** by optimizing PostgreSQL queries and backend logic
+**MedAgentBench pipeline** — Extended Stanford's clinical AI benchmarks with a structured multi-agent system (working memory + question planner + critic + devil's advocate). Took GPT-4.1 Mini from 34% → 59% diagnostic accuracy on 310 held-out cases. Turns out the model wasn't the problem — the architecture was.
 
-**Software Engineering Intern – Nowhere Collective**
-
-- Launched a digital marketplace serving **100+ users and 50+ vendors**
-- Built ranking and matching logic using **React, TypeScript, SQL**
-- Improved backend performance, reliability, and CI/CD workflows on AWS
+**SOL** — AI quiz and grading platform. Built for professors who are tired of grading the same wrong answer 200 times. Pilot stage, university users, actively iterating.
 
 ---
 
-## 🔨 Selected Projects
+## how i think about building
 
-### 💬 AI-Powered Learning Platform  
-**Java • Spring Boot • PostgreSQL • AWS**
+```python
+while True:
+    ship()
+    watch_it_break()
+    understand_why()
+    fix_it_properly()
+    # repeat until it stops breaking
+    # (it never stops breaking)
+```
 
-- Automated quiz creation and grading using GPT
-- Designed for correctness, reliability, and real classroom usage
-
-### 📊 Classroom Analytics & Orchestration  
-**React • Go • SQL • WebSockets**
-
-- Real-time instructor dashboards and student interaction tools
-- Built scalable analytics pipelines to support teaching at scale
-
-### 🌐 Digital Marketplace Platform  
-**React • TypeScript • SQL • AWS**
-
-- Implemented ranking and matching systems
-- Focused on clean UX, uptime, and performance under load
+I care about the feedback loop more than the first deploy. Post-launch is where the real engineering starts.
 
 ---
 
-## Tech I Work With
+## stack
 
-**Languages:** TypeScript, Java, Python, Go, SQL, C++  
-**Frontend:** React, Next.js, WebSockets  
-**Backend:** Node.js, Express, Spring Boot, REST, gRPC  
-**AI / Data:** GPT APIs, agent evaluation pipelines, PostgreSQL, Redis  
-**Infra:** AWS (EC2, S3, RDS, Lambda), Docker, CI/CD, GitHub Actions
-
----
-
-## How I Like to Work
-
-- I move fast but I don’t ship things I wouldn’t trust myself
-- I care about systems that **explain themselves**, especially when AI is involved
-- I am comfortable jumping across frontend, backend, infra, and AI in the same day
-- I do my best work in **early-stage, high-ownership environments**
-- I also have a newfound obsession with running, so might grad you to run sooner or later
+```
+languages  →  Python · TypeScript · Go · Java · SQL · C++
+AI         →  LangChain · LangGraph · RAG · OpenAI · Claude · evals
+backend    →  FastAPI · Spring Boot · REST · gRPC · WebSockets
+infra      →  AWS · Docker · K8s · Terraform · CI/CD
+databases  →  PostgreSQL · MongoDB · Redis · pgvector · Kafka
+```
 
 ---
 
-## Let’s Connect
+## by the numbers
 
-- Website: https://yashajaysawant.framer.website  
-- LinkedIn: https://linkedin.com/in/yash-ajay-sawant  
+| thing | number |
+|---|---|
+| clinical cases improved | 310 |
+| accuracy gain | +25 pts (34% → 59%) |
+| automated eval runs | 1,500+ |
+| users served across projects | 600+ |
+| times I've blamed the model before checking my own code | too many |
+
 ---
+
+## outside the terminal
+
+marathon training · pickleball · film photography · go-kart racing · gran turismo when the weather is bad
+
+currently reading whatever I can get through before the next deadline.
+
+---
+
+<div align="center">
+
+*"the best code is code that ships"*
+*the second best code is code that ships and doesn't break*
+*I'm working on the second one*
+
+</div>
